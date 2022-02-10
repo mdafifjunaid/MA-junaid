@@ -1,0 +1,403 @@
+.html{
+
+
+
+
+    text-decoration: wavy underline;
+    text-align: center;
+    line-height: 80px;
+    position: relative;
+    bottom: 0;
+    left: 567px;
+    font-size: 30px;
+    z-index: 1;
+
+
+
+}
+
+
+
+.ht2{
+
+
+
+    position: relative;
+    bottom: 16px;
+    left: 90px;
+
+
+}
+
+
+
+.ht3{
+
+
+
+    position: relative;
+    right: 35px;
+}
+
+
+
+.html1{
+
+
+
+    height: 10vh;
+    width: 20vw;
+    border: 2px solid rgb(66, 47, 47);
+    margin-left: 20px;
+    margin-top:5px;
+
+
+} 
+
+
+
+.img{
+
+
+
+    position: relative;
+    left: 620px;
+    text-decoration: wavy underline;
+
+
+
+}
+
+
+
+
+.img2{
+
+
+
+    position: relative;
+    z-index: 1;
+  
+    margin-left: 20px;
+
+
+}
+
+
+
+.i-note{
+
+
+
+    position: relative;
+    z-index: 1;
+    margin-left: 35px;
+    line-height: 10px;
+}
+
+
+
+.meta1{
+
+
+
+        position: relative;
+        z-index: 1;
+        margin-left: 100px;
+
+
+    }
+
+
+.body{
+
+
+
+
+    position: relative;
+    z-index: 1;
+    margin-left: 20px;
+
+
+
+}
+
+
+
+.b{
+
+
+
+    font-size: 16px;
+    font-weight:550;
+    color: white;
+}
+
+
+
+.tag{
+    
+        position: relative;
+        z-index: 1;
+        margin-left: 100px;
+    
+}
+
+
+
+.html2{
+
+
+
+    position: relative;
+    z-index: 1;
+    margin-left: 20px;
+}
+
+
+
+.meta{
+
+
+
+    position: relative;
+    z-index: 1;
+    margin-left: 20px;
+}
+
+
+
+.background{
+
+
+
+    background-image: url(../ii.jpg);
+    height: 100%;
+    width: 100%;
+    position: fixed;
+    background-size: cover;
+    z-index: 0.1;
+    opacity: 0.7;
+
+
+
+}
+
+
+.foot2{
+
+
+
+    position: relative;
+
+
+    left: 590px;
+
+
+
+
+}
+
+
+
+
+
+.foot1{
+
+
+
+
+    position: relative;
+    left:535px;
+
+
+
+    color: rgb(200, 196, 196);
+
+
+
+}
+
+
+
+
+.foot{
+
+
+
+    color: rgb(182, 170, 170);
+    left: 460px;
+    position: relative;
+
+    text-align: center;
+
+
+
+}
+
+
+
+footer{
+
+
+
+    background-color: rgb(90, 20, 35);
+    z-index: 5;
+    position: relative;
+
+
+
+}
+
+
+
+*{
+
+
+
+    margin:0;
+    padding:0;
+    line-height: 45px;
+
+
+
+}
+
+
+.htm2{
+
+
+
+    margin-left:30px;
+
+
+
+}
+
+
+
+.i-note1{
+
+
+    margin-left: 60px;
+
+
+
+
+
+}
+
+
+
+
+.i-note2{
+
+
+
+    margin-left: 80px;
+
+
+
+
+
+}
+
+
+
+@media screen and (max-width:800px){
+    
+    
+    
+    
+    .html {
+
+
+        text-decoration: wavy underline;
+        text-align: center;
+        line-height: 80px;
+        position: relative;
+        bottom: 0;
+        left: 175px;
+        font-size: 30px;
+        z-index: 1;
+
+    }   
+
+ 
+.img{
+
+    
+        position: relative;
+        left: 85px;
+        text-decoration: wavy underline;
+    
+
+
+}
+
+
+
+    .html1 {
+        height: 10vh;
+        width: 48vw;
+        border: 2px solid rgb(66, 47, 47);
+        margin-left: 20px;
+        margin-top: 5px;
+    }
+
+
+
+    body{
+
+
+
+        width: 154%;
+
+    }
+
+
+footer{
+
+
+ 
+    width: 200%;
+
+}
+
+
+
+.foot1{
+
+
+position:relative;
+left: 109px;
+
+
+
+}
+
+
+
+.foot2{
+
+
+
+position: relative;
+left: 185px;
+
+
+}
+
+
+
+
+.foot{
+
+
+    position: relative;
+    left: 19px;
+}
+
+
+
+}
